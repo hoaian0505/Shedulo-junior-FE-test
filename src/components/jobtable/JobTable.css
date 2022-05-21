@@ -1,0 +1,32 @@
+.list-name{
+    color: #333D4B;
+    font-weight: 600;
+    width: 25%;
+    border: 1px solid;
+    align-items: center;
+    text-align: center;
+}
+
+.list-date{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 25%;
+    align-items: center;
+    text-align: center;
+    border: 1px solid;
+}
+
+.job-list{
+    display: flex;
+    margin-left: 2.5rem;
+    margin-right: 2.5rem;
+    margin-bottom: 0;
+}
+
+.job-table{
+    padding-top: 2rem;
+}
+
+p{
+    margin:0;
+}
